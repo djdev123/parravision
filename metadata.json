@@ -1,0 +1,6 @@
+{
+  "name": "Parravision",
+  "description": "An interactive civic-tech Smart City platform (Parravision) featuring a live CBD Map, public blog feed, frictionless pulse polling, and an AI-powered urban planning chatbot for the community of Parramatta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
